@@ -1,0 +1,13 @@
+    .page{
+        height: 50%;
+        width: 50%;
+    }
+    .light-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }

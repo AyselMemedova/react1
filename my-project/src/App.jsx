@@ -1,5 +1,5 @@
-import taskfrst from "./taskfrst"
-
+import Taskfrst from "./components/taskfrst"
+import Taskscnd from "./components/taskscnd";
 
 
 function App() {
@@ -7,7 +7,8 @@ function App() {
 
   return (
     <>
-      <taskfrst/>
+      <Taskfrst/>
+      <Taskscnd/>
 
     </>
   );
